@@ -1,5 +1,4 @@
 
-
 var numSquares = 6;  //change to 9 when adding a medium button
 
 var colors = [];
